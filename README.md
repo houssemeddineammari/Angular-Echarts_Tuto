@@ -1,3 +1,5 @@
+#The Output of the project is shown in the attached png file in the project
+
 # Echarts for Angular Charts using ngx-echarts
 
  the ngx-echarts package module is exclusively customized for Angular projects which can be used to build echart library-based charts in a react application using an Angular framework.
